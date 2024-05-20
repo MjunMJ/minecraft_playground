@@ -1,0 +1,14 @@
+{
+    "format_version":"1.19.30",
+    "demo:die":{
+        "textures": {
+            "up":"die_1",
+            "down":"die_2",
+            "north":"die_3",
+            "south":"die_4",
+            "east":"die_5",
+            "west":"die_6"
+        },
+        "sound":"stone"
+    }
+}

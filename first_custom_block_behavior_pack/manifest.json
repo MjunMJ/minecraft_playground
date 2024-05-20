@@ -1,0 +1,24 @@
+{
+    "format_version": 2,
+    "header": {
+      "description": "My first custom block Add-On!",
+      "name": "First custom block try",
+      "uuid":"6fe675a1-c4ed-472c-aa9c-a690e47dd98b",
+      "version": [1, 0, 0],
+      "min_engine_version": [1, 16, 0]
+     },
+    "modules": [
+      {
+        "description": "My first custom block Add-On!",
+        "type": "data",
+        "uuid": "00719362-2475-4f5d-b4b3-2344dc578498",
+        "version": [1, 0, 0]
+      }
+    ],
+    "dependencies":[
+      {
+        "uuid":"<Resource Pack UUID>",
+        "version":[1,0,0]
+      }
+    ]
+   }

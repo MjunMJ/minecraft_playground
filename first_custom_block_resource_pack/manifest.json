@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "This is a resource pack for our first custom block.",
+        "name": "First custom block",
+        "uuid":"8cacd0c1-8514-4467-bb4d-2e30824b7aaa",
+        "version": [1,0,0],
+        "min_engine_version": [1,19,20]
+    },
+    "modules": [
+        {
+            "description":"First resource pack for custom block",
+            "type": "resources",
+            "uuid": "de4717e1-09c0-4770-a6eb-ec7c744dae40",
+            "version": [1,0,0]
+        }
+    ]
+}
