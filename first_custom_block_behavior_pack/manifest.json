@@ -5,7 +5,7 @@
       "name": "First custom block try",
       "uuid":"6fe675a1-c4ed-472c-aa9c-a690e47dd98b",
       "version": [1, 0, 0],
-      "min_engine_version": [1, 16, 0]
+      "min_engine_version": [1, 19, 0]
      },
     "modules": [
       {
