@@ -9,6 +9,7 @@
             "east":"die_5",
             "west":"die_6"
         },
+        "carried_textures": "die_red",
         "sound":"stone"
     }
 }
