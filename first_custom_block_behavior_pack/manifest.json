@@ -1,7 +1,7 @@
 {
     "format_version": 2,
     "header": {
-      "description": "My first custom block Add-On!",
+      "description": "Create a dice!",
       "name": "First custom block try",
       "uuid":"6fe675a1-c4ed-472c-aa9c-a690e47dd98b",
       "version": [1, 0, 0],
