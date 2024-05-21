@@ -21,6 +21,9 @@
         },
         "die_6":{
             "textures":"textures/blocks/die_6"
+        },
+        "die_red":{
+            "textures":"textures/blocks/die_red"
         }
     }
 }
